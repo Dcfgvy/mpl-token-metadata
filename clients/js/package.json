@@ -1,5 +1,5 @@
 {
-  "name": "@metaplex-foundation/mpl-token-metadata",
+  "name": "@dcfgvy/mpl-token-metadata",
   "version": "3.4.0",
   "description": "JavaScript client for Token Metadata",
   "main": "dist/src/index.js",
@@ -16,6 +16,7 @@
   "files": [
     "/dist/src"
   ],
+  "type": "module",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
@@ -60,5 +61,5 @@
       }
     }
   },
-  "packageManager": "pnpm@8.2.0"
+  "packageManager": "pnpm@9.1.1"
 }
